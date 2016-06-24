@@ -1,4 +1,4 @@
-node_modules/* 禁止上传node_modules
+https://github.com/theJian/build-a-hn-front-page build
 
 npm init
 
@@ -155,3 +155,14 @@ style-loader 将 css 代码插入页面中的 style 标签中.
  test: /\.css$/,
  loader: 'style!css'
 }
+
+
+
+使用 Hacker News API 来获取数据, 具体请参考 API 文档.( https://github.com/HackerNews/API )
+
+最后案例：https://github.com/mking/react-hn
+
+
+添加react插件：https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related
+
+https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
